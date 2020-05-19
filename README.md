@@ -1,6 +1,11 @@
 # WhatsaApp Clone - Flutter 💬
 
-This is a WhatsApp UI clone built in flutter.
+WhatsApp UI clone built in flutter.
+
+### Show some :heart: and star the repo to support the project
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/hiteshgarg123/WhatsApp-UI-Clone-Flutter/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/hiteshgarg123/WhatsApp-UI-Clone-Flutter/)
 
 ## Getting Started 🚀
 
